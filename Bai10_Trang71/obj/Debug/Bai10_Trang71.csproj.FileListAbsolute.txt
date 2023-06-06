@@ -1,0 +1,22 @@
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai10_Trang71\Bai10_Trang71\bin\Debug\Bai10_Trang71.exe.config
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai10_Trang71\Bai10_Trang71\bin\Debug\Bai10_Trang71.exe
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai10_Trang71\Bai10_Trang71\bin\Debug\Bai10_Trang71.pdb
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai10_Trang71\Bai10_Trang71\obj\Debug\Bai10_Trang71.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai10_Trang71\Bai10_Trang71\obj\Debug\Bai10_Trang71.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai10_Trang71\Bai10_Trang71\obj\Debug\Bai10_Trang71.Form1.resources
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai10_Trang71\Bai10_Trang71\obj\Debug\Bai10_Trang71.Properties.Resources.resources
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai10_Trang71\Bai10_Trang71\obj\Debug\Bai10_Trang71.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai10_Trang71\Bai10_Trang71\obj\Debug\Bai10_Trang71.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai10_Trang71\Bai10_Trang71\obj\Debug\Bai10_Trang71.exe
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai10_Trang71\Bai10_Trang71\obj\Debug\Bai10_Trang71.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_Chon_ThuDo_QuocGia\Bai10_Trang71\bin\Debug\Bai10_Trang71.exe.config
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_Chon_ThuDo_QuocGia\Bai10_Trang71\bin\Debug\Bai10_Trang71.exe
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_Chon_ThuDo_QuocGia\Bai10_Trang71\bin\Debug\Bai10_Trang71.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_Chon_ThuDo_QuocGia\Bai10_Trang71\obj\Debug\Bai10_Trang71.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_Chon_ThuDo_QuocGia\Bai10_Trang71\obj\Debug\Bai10_Trang71.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_Chon_ThuDo_QuocGia\Bai10_Trang71\obj\Debug\Bai10_Trang71.Form1.resources
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_Chon_ThuDo_QuocGia\Bai10_Trang71\obj\Debug\Bai10_Trang71.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_Chon_ThuDo_QuocGia\Bai10_Trang71\obj\Debug\Bai10_Trang71.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_Chon_ThuDo_QuocGia\Bai10_Trang71\obj\Debug\Bai10_Trang71.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_Chon_ThuDo_QuocGia\Bai10_Trang71\obj\Debug\Bai10_Trang71.exe
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_Chon_ThuDo_QuocGia\Bai10_Trang71\obj\Debug\Bai10_Trang71.pdb
